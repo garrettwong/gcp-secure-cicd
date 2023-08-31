@@ -1,4 +1,4 @@
-# GCP CI/CD security demo and tutorial - TEST
+# GCP CI/CD security demo and tutorial - TEST2
 
 This repo demostrates a security focused CI/CD pipeline for GKE with Google Cloud tools Cloud Build, Binary Authorization, Artifact Registry, Container Analysis, and Google Cloud Deploy. The example app is a simple containerized Python Flask example app named "Population Stats" with Kustomize overlays.
 
